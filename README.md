@@ -14,8 +14,7 @@ Para garantir que o código funcione corretamente na sua máquina, siga os passo
 Para compilar o código manualmente usando o terminal:
 1. Abra o terminal e navegue até a pasta onde os arquivos `.cpp` estão salvos.
 2. Execute o seguinte comando para compilar um dos arquivos (exemplo para a Questão 1):
-```bash
-g++ questao1.cpp -o questao1
+"```bash g++ questao1.cpp -o questao1 "
 
 (Este comando cria o executável questao1 no Linux/Mac, ou questao1.exe no Windows).
 
